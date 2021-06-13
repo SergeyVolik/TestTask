@@ -10,9 +10,6 @@ namespace TestTaskProject
     {
         public const string PLAYER_TAG = "Player";
 
-
-        
-
         public class DoorAnimator
         {
             public const string OPEN_DOOR_TRIGGER = "OpenDoor";

@@ -53,9 +53,7 @@ namespace TestTaskProject
         {
             if (m_playerInside && !m_AnimationPlaying)
             {
-              
-
-               
+                    
                     var pos1 = Vector3.ProjectOnPlane(transform.position, Vector3.up);
                     var pos2 = Vector3.ProjectOnPlane(m_Player.transform.position, Vector3.up);
 
@@ -92,9 +90,6 @@ namespace TestTaskProject
                     MessageBroker.Default.Publish(new MessageHideIteractUI());
                     m_UiShowed = false;
                 }
-
-
-
 
             }
 
