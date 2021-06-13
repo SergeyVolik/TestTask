@@ -1,0 +1,31 @@
+Robobot T7 is a high-quality character fully ready for use in your game projects. 
+Comes with 15 animation clips. Rigged with humanoid so you are able to retarget some additional animations if you will. Realistic PBR materials. Presented in four color schemes.
+
+Package components:
+One mesh 11 648 tris.
+
+Nine textures 4096x4096 in PNG format:
+- 4 Albedo Maps
+- 2 Emission Maps
+- 1 Normal Maps
+- 1 Metallic-Smoothness Maps
+- 1 AO Map
+
+Fifteen animations:
+Attack 1
+Attack 2
+Death
+Use
+Pickup
+Hit
+Walk
+Run
+Idle
+Idle 1
+Idle 2
+Jump Start (0-16 frames)
+Jump Move Up (17-33 frames)
+Jump Move Down / Falling (34-50 frames)
+Jump Landing (51-70 frames)
+
+No installation is required. Just import the package, grab the necessary prefabs, and use it in your game.
