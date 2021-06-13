@@ -9,6 +9,8 @@ namespace TestTaskProject
     {
         [SerializeField]
         private TMP_Text m_Text;
+
+        public bool TextEnabled => m_Text.enabled;
         // Start is called before the first frame update
         void Awake()
         {
